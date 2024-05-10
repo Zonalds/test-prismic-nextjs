@@ -1,0 +1,14 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"hero_title": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "meant3sese"
+			}
+		},
+		"items": []
+	}
+]
